@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Ferdousi Sultana
 
-### 🗺️ GIS & Environmental Data Analyst
+
+
 
 I'm passionate about using GIS, remote sensing, and Python to transform spatial data into meaningful insights for environmental decision-making.
 
