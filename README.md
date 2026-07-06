@@ -61,9 +61,9 @@ I'm passionate about using GIS, remote sensing, and Python to transform spatial 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Ferdousi24&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Ferdousi24&layout=compact&theme=default)
 
 ---
 
